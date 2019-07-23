@@ -1,6 +1,6 @@
 {
   "name": "RadioJavan Downloader",
-  "description": "RadioJavan Downloader",
+  "description": "A simple google chrome extension to add download buttons to RadioJavan's tracks and podcasts.",
   "version": "1.0.0",
   "manifest_version": 2,
   "browser_action": {
@@ -9,7 +9,6 @@
   "permissions": [
     "webNavigation",
     "tabs",
-    "notifications",
     "http://*/*",
     "https://*/*",
     "https://www.radiojavan.com/*"
