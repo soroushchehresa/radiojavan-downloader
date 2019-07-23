@@ -1,0 +1,27 @@
+{
+  "name": "RadioJavan Downloader",
+  "description": "RadioJavan Downloader",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "webNavigation",
+    "tabs",
+    "notifications",
+    "http://*/*",
+    "https://*/*",
+    "https://www.radiojavan.com/*"
+  ],
+  "background": {
+    "scripts": [
+      "./background.js"
+    ]
+  },
+  "icons": {
+    "16": "16.png",
+    "48": "48.png",
+    "128": "128.png"
+  }
+}

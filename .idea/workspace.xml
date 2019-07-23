@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a60a7b84-995f-4d2b-8595-b318aae76dfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/actions/todos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/Footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/MainSection.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/MainSection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/TodoItem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/TodoItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/TodoTextInput.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/TodoTextInput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/constants/ActionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/constants/TodoFilters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/containers/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/containers/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/containers/Root.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/reducers/todos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/store/configureStore.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/store/configureStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/store/configureStore.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/utils/storage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appveyor.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/assets/img/icon-128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/assets/img/icon-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/assets/img/icon-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/extension/background.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/extension/background/badge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/extension/background/contextMenus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/extension/background/inject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/extension/inject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/extension/todoapp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/extension/todoapp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/manifest.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/manifest.prod.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/views/background.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/views/inject.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/views/popup.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome/views/window.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/compress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/tasks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/app/actions/todos.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/app/components/Footer.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/app/components/Header.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/app/components/MainSection.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/app/components/TodoItem.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/app/components/TodoTextInput.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/app/reducers/todos.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/e2e/injectpage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/e2e/todoapp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/func.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/mocha.opts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/setup-app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/customPublicPath.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/dev.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/prod.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/replace/JsonpMainTemplate.runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/replace/process-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/test.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="20">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>urls</find>
+      <find>scrapeData</find>
+      <find>requestIdleCallback</find>
+      <find>content_scripts</find>
+      <find>downloadLink320</find>
+      <find>response.getContent</find>
+      <find>onCompleted</find>
+      <find>network</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/containers/App.js" />
+        <option value="$PROJECT_DIR$/app/containers/App.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/dev/manifest.json" />
+        <option value="$PROJECT_DIR$/chrome/extension/background.js" />
+        <option value="$PROJECT_DIR$/chrome/extension/background/contextMenus.js" />
+        <option value="$PROJECT_DIR$/chrome/extension/background/inject.js" />
+        <option value="$PROJECT_DIR$/contentScript.js" />
+        <option value="$PROJECT_DIR$/inject.js" />
+        <option value="$PROJECT_DIR$/content.js" />
+        <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/background.js" />
+        <option value="$PROJECT_DIR$/manifest.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="radiojavan-downloader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="radiojavan-downloader" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a60a7b84-995f-4d2b-8595-b318aae76dfe" name="Default Changelist" comment="" />
+      <created>1563642912731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563642912731</updated>
+      <workItem from="1563642913862" duration="1131000" />
+      <workItem from="1563870478313" duration="14664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15795000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="ReactNative" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2867347" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/containers/Root.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/inject.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/popup.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/window.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/background.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="45" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/extension/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/extension/background/badge.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/extension/background/contextMenus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/extension/background/inject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="31" selection-start-line="30" selection-start-column="25" selection-end-line="31" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="20">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
