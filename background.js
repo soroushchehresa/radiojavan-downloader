@@ -3,7 +3,6 @@
   let downloadLink256;
   let downloadLink320;
   let loading;
-
   function handleAddDownloadButtons() {
     buttonLink = '';
     downloadLink256 = '';
@@ -48,17 +47,12 @@
       request.send(formData);
     }
   }
-
-
   chrome.webNavigation.onDOMContentLoaded.addListener((details) => {
     handleAddDownloadButtons();
   }, { url: [{ hostSuffix: 'radiojavan.com' }] });
-
-
   chrome.tabs.onUpdated.addListener(function (tabId, changeInfo, tab) {
     if (changeInfo.url) {
       handleAddDownloadButtons();
     }
   });
-
 }());
