@@ -18,5 +18,5 @@ A simple google chrome extension to add download buttons to [RadioJavan](https:/
 
 ## Screenshot
 <p align="center">
-  <img src="https://i.ibb.co/F88zzFY/aaaa.jpg" width="100%" />
+  <img src="http://i.imgur.com/KrUK3Ge.png" width="100%" />
 </p>
