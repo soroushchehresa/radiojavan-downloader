@@ -20,3 +20,10 @@ A simple google chrome extension to add download buttons to [RadioJavan](https:/
 <p align="center">
   <img src="http://i.imgur.com/KrUK3Ge.png" width="100%" />
 </p>
+
+<br />
+
+## Support:
+<a href="https://www.patreon.com/soroushchehresa">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
