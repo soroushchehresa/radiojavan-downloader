@@ -5,7 +5,7 @@
 <br />
 
 # RadioJavan Downloader
-A simple Google Chrome extension to add download buttons to [RadioJavan](https://www.radiojavan.com/) tracks, videos and podcasts.
+A simple Google Chrome extension for adding download buttons to [RadioJavan](https://www.radiojavan.com/) tracks, videos and podcasts.
 
 <br />
 
