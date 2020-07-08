@@ -16,7 +16,7 @@ A simple Google Chrome extension for adding download buttons to [RadioJavan](htt
 
 <br />
 
-## Screenshots:
+## Screenshots
 <p align="center">
   <img src="http://i.imgur.com/KrUK3Ge.png" width="100%" />
 </p>
@@ -26,7 +26,7 @@ A simple Google Chrome extension for adding download buttons to [RadioJavan](htt
 
 <br />
 
-## Support:
+## Support
 <a href="https://www.patreon.com/soroushchehresa">
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
